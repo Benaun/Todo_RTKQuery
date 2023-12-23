@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "Learnd React",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "title": "Learnd JS",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "Learnd Redux Toolkit",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "title": "Learn RTK Query",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "title": "Learn Basic",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "title": "Hello",
+      "completed": false,
+      "id": 6
+    }
+  ]
+}
